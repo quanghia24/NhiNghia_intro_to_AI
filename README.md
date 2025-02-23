@@ -6,7 +6,12 @@ step2: activate that vir-env
 
 em vào folder .env -> script -> `Activate.ps1`
 
-DFS của em gồm 2 file là `main.py` và `solver.py` nghe
+step3: tải requirement cho môi trường : `pip install -r requirements.txt`
+
+--------------------
+
+DFS của em gồm 2 file là `main.py` và `solver.py` nghe 
+
 main.py là phần game, solver.py sẽ áp dụng giải thuật backtracking để giải nó
 
 Implementation Steps :
